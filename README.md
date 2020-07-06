@@ -4,9 +4,9 @@ Python 3.8.3
 
 # Usage
 The script will prompt the user to enter the steam profile ID of the profile with the desired avatar in the following format:
-https://steamcommunity.com/id/[THIS PART IS WHAT YOU ENTER]
+https://steamcommunity.com/id/ [THIS PART IS WHAT YOU ENTER]
 
-ex: https://steamcommunity.com/id/fooprofile
+ex: https://steamcommunity.com/id/exampleprofilepleasedontexist
 
 Will output message "Avatar succesfully downloaded" if avatar acquisition is successfull. 
 Will output message "Could not find steam profile/avatar
